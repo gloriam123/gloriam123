@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gloriam123 
-- 👀 I’m interested in big data and bioinformatics!
-- 🌱 I’m currently learning about RStudio and the Python language, and I have an academic background in Pharmacy :)
-- 💞️ I’m looking to collaborate on antibody repertoire analysis, using advanced data analysis techniques and bioinformatics xD
+- 👀 I’m interested in big data and bioinformatics
+- 🌱 I’m currently learning about RStudio and Python language
+- 💞️ I’m looking to collaborate on antibody repertoire analysis, using advanced data analysis techniques and bioinformatics
 - 📫 How to reach me: gloriamariaserafimdasilva@gmail.com
 
 <!---
